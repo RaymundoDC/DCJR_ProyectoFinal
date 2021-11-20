@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib compuertaPuerta2.mtl
+g default
+v 4.031853 -0.101576 -4.096335
+v 4.131633 0.101507 -4.076024
+v 4.199624 0.089749 -4.292474
+v 4.099844 -0.113335 -4.312784
+vt 0.632452 0.007452
+vt 0.867548 0.007452
+vt 0.867548 0.242548
+vt 0.632452 0.242548
+vn 0.847069 -0.445217 0.290269
+vn 0.847069 -0.445217 0.290269
+vn 0.847069 -0.445217 0.290269
+vn 0.847069 -0.445217 0.290269
+s off
+g COMPUERTA
+usemtl initialShadingGroup
+f 1/1/1 4/2/2 3/3/3 2/4/4

@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib compuertaPuerta.mtl
+g default
+v 5.072080 0.098619 -4.083816
+v 5.178773 -0.101891 -4.088709
+v 5.142046 -0.115971 -4.312461
+v 5.035352 0.084538 -4.307566
+vt 0.000000 1.000000
+vt 0.978590 0.934381
+vt 1.000000 0.000000
+vt 0.021402 0.065615
+vn -0.867929 -0.466031 0.171796
+vn -0.867929 -0.466031 0.171796
+vn -0.867929 -0.466031 0.171796
+vn -0.867929 -0.466031 0.171796
+s off
+g COMPUERTACABINA2
+usemtl lambert30SG
+f 1/1/1 4/2/2 3/3/3 2/4/4

@@ -1,0 +1,102 @@
+﻿  DCJR_ProyectoFinal.cpp
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(356,25): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(358,26): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(366,25): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(368,26): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(376,29): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(378,26): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(386,29): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(388,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(396,29): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(398,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(405,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(406,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(407,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(410,29): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(412,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(419,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(420,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(421,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(424,29): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(426,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(433,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(434,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(435,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(438,29): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(440,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(447,26): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(448,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(449,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(453,29): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(455,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(462,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(463,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(464,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(468,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(470,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(477,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(478,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(479,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(483,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(485,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(492,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(493,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(494,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(498,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(500,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(507,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(508,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(509,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(513,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(515,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(522,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(523,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(524,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(528,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(530,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(537,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(538,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(539,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(732,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(768,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(769,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(770,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1263,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1264,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1268,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1269,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1271,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1272,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1423,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1428,16): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1433,16): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1438,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1443,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1448,16): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1459,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1464,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1469,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\DCJR_ProyectoFinal\DCJR_ProyectoFinal.cpp(1474,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 665 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  DCJR_ProyectoFinal.vcxproj -> C:\Users\dcray\Desktop\Computación Gráfica\Laboratorio\Proyecto\COMPLETO\DCJR_ProyectoFinal\Release\DCJR_ProyectoFinal.exe

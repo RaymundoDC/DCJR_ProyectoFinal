@@ -1,0 +1,936 @@
+newmtl CalidoLamp:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl CalidoLamp:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CALIDO.png
+Ni 1.00
+newmtl GLASS:Mesh_0546SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.53 0.53 0.53
+Ns 16.38
+newmtl GLASS1:Mesh_0546SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.53 0.53 0.53
+Ns 16.38
+newmtl GreenLamp:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl GreenLamp:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VERDE.png
+Ni 1.00
+newmtl RedLamp:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl RedLamp:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ROJO.png
+Ni 1.00
+newmtl base:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl base:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cablestecholamp.png
+Ni 1.00
+newmtl base:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl brazoDer:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_arm.png
+Ni 1.00
+newmtl brazoDer:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_face.png
+Ni 1.00
+newmtl brazoIzq:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_arm.png
+Ni 1.00
+newmtl brazoIzq:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_face.png
+Ni 1.00
+newmtl cabeza:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_face.png
+Ni 1.00
+newmtl cabeza:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hair.png
+Ni 1.00
+newmtl camacapsula1:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.77 0.77 0.77
+Tf 1.00 1.00 1.00
+map_Kd METALCAMA.png
+Ni 1.00
+newmtl camacapsula1:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.68 0.68
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl camacapsula1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CAMABLANCA.png
+Ni 1.00
+newmtl camacapsula1:lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl camacapsula1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ALMOHADAAZUL.png
+Ni 1.00
+newmtl camacapsula1:lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd METALCAMA.png
+Ni 1.00
+newmtl camacapsula1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALCAMA.png
+Ni 1.00
+newmtl camacapsula1:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.81 0.81 0.81
+Tf 1.00 1.00 1.00
+map_Kd METALCAMA.png
+Ni 1.00
+newmtl camacapsula1:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALROJOCAPSULA.png
+Ni 1.00
+newmtl esqueleto:RefRep_77
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl esqueleto:RefRep_81
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl esqueleto:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_chest.png
+Ni 1.00
+newmtl esqueleto:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_belt.png
+Ni 1.00
+newmtl esqueleto:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_leg.png
+Ni 1.00
+newmtl hanPRUEBA:RefRep_77
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl hanPRUEBA:RefRep_81
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl hanPRUEBA:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_chest.png
+Ni 1.00
+newmtl hanPRUEBA:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_face.png
+Ni 1.00
+newmtl hanPRUEBA:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hair.png
+Ni 1.00
+newmtl hanPRUEBA:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_arm.png
+Ni 1.00
+newmtl hanPRUEBA:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_arm.png
+Ni 1.00
+newmtl hanPRUEBA:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_face.png
+Ni 1.00
+newmtl hanPRUEBA:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_face.png
+Ni 1.00
+newmtl hanPRUEBA:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_belt.png
+Ni 1.00
+newmtl hanPRUEBA:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_leg.png
+Ni 1.00
+newmtl hanPRUEBA:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_leg.png
+Ni 1.00
+newmtl hanPRUEBA:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_leg.png
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blackmetal.png
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelControl.png
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pantalla3.png
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pantalla4.png
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.png
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.png
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.png
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd prueba2.png
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd prueba2.png
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALCAMA.png
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd prueba2.png
+Ni 1.00
+newmtl lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TUBERIA.png
+Ni 1.00
+newmtl lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TUBERIA.png
+Ni 1.00
+newmtl lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd prueba2.png
+Ni 1.00
+newmtl lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd prueba2.png
+Ni 1.00
+newmtl lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blackmetal.png
+Ni 1.00
+newmtl lambert31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cables.png
+Ni 1.00
+newmtl lambert32SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cables.png
+Ni 1.00
+newmtl mesaA:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADOMESA.png
+Ni 1.00
+newmtl mesaA:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADOMESA.png
+Ni 1.00
+newmtl mesaA:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd AJEDREZ.png
+Ni 1.00
+newmtl mesaA:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADOMESA.png
+Ni 1.00
+newmtl mesaA:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADOMESA.png
+Ni 1.00
+newmtl piernaDer:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_leg.png
+Ni 1.00
+newmtl piernaIzq:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd han_leg.png
+Ni 1.00
+newmtl sillacabina:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl sillacabina:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PIELCAFE.png
+Ni 1.00
+newmtl sillacabina:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd seguro2.jpg
+Ni 1.00
+newmtl sillacabina:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd seguro1.jpg
+Ni 1.00
+newmtl sillacabina:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl sillacabina:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl sillacabina:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl sillacabina:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl sillacabina:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl sillacabina:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl sillacabina:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PIELCAFE.png
+Ni 1.00
+newmtl sillacabina:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PIELCAFE.png
+Ni 1.00
+newmtl sofa1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd prueba3.png
+Ni 1.00
+newmtl sofa1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl sofa1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl sofa1:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALCAMA.png
+Ni 1.00
+newmtl sofa1:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALCAMA.png
+Ni 1.00
+newmtl sofa1:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALCAMA.png
+Ni 1.00
+newmtl sofa1:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALCAMA.png
+Ni 1.00
+newmtl sofa1:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl sofa1:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd METALOXIDADO.png
+Ni 1.00
+newmtl starwars_millennium_falcon:CP_Front
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CP_Front.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:Cockpit2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cockpit2.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:Engine02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Engine02.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:EscPod_L
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd EscPod_L.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:EscPod_U
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd EscPod_U.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:FalcPlan
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FalcPlan.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:FalcUndr
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FalcUndr.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:Hatch
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hatch.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:M_Inside
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd M_Inside.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:MandbEnd
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MandbEnd.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:SidePort
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SidePort.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:SideRe01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SideRe01.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:SideRear
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SideRear.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:Turret_U
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Turret_U.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl starwars_millennium_falcon:Vent01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Vent01.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl tablerocontrol:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tablerocontrol:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelControl.png
+Ni 1.00
+newmtl tablerocontrol:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelControl.png
+Ni 1.00
+newmtl tablerocontrol:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl tablerocontrol:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl tablerocontrol:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl tablerocontrol:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl tablerocontrol:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pantalla1.png
+Ni 1.00
+newmtl tablerocontrol:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.jpg
+Ni 1.00
+newmtl tablerocontrol:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl tablerocontrol:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabina.png
+Ni 1.00
+newmtl tableroind:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tableroind:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd panelMetalTexture.png
+Ni 1.00
+newmtl tableroind:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pantalla2.png
+Ni 1.00
